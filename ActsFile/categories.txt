@@ -1,0 +1,1 @@
+{"categories": [{"categoryName": "social_responsibility", "no_acts": 38}, {"categoryName": "cooking", "no_acts": 39}, {"categoryName": "friendship", "no_acts": 38}]}
